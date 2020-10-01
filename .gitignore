@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# .env file for database passwords an other sensitive info
+ .env
+ 

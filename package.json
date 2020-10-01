@@ -1,0 +1,33 @@
+{
+  "name": "barebones-online-classes",
+  "version": "1.0.0",
+  "description": "Barebones Online Classes for you to personalize",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jruysaribeiro/Barebones-Online-Classes.git"
+  },
+  "author": "José Ruy Sá Ribeiro",
+  "license": "GNUGPLV3",
+  "bugs": {
+    "url": "https://github.com/jruysaribeiro/Barebones-Online-Classes/issues"
+  },
+  "homepage": "https://github.com/jruysaribeiro/Barebones-Online-Classes#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect-flash": "^0.1.1",
+    "dotenv": "^8.2.0",
+    "express-sesssion": "^1.15.5",
+    "method-override": "^3.0.0",
+    "moment": "^2.29.0",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.10.7",
+    "nodemailer": "^6.4.12",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^6.0.1"
+  }
+}
